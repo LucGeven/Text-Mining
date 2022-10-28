@@ -1,0 +1,34 @@
+[
+    {
+        "0": "official_language_is",
+        "1": "borders",
+        "2": "region",
+        "3": "is_largest_city_of",
+        "4": "is_capital_of",
+        "5": "majority_religion_is",
+        "6": "part_of",
+        "7": "gdp_is",
+        "8": "has_state_type",
+        "9": "located_in",
+        "10": "currency_is",
+        "11": "has_climate",
+        "12": "has_population_of",
+        "13": "one_of_ethnicity"
+    },
+    {
+        "official_language_is": 0,
+        "borders": 1,
+        "region": 2,
+        "is_largest_city_of": 3,
+        "is_capital_of": 4,
+        "majority_religion_is": 5,
+        "part_of": 6,
+        "gdp_is": 7,
+        "has_state_type": 8,
+        "located_in": 9,
+        "currency_is": 10,
+        "has_climate": 11,
+        "has_population_of": 12,
+        "one_of_ethnicity": 13
+    }
+]
