@@ -33,7 +33,7 @@ python -u run.py \
 --save_path ckpts/tm.model \
 --learning_rate 0.00005 \
 --neg_samples 2 \
---epoch 200 \
+--epoch 30 \
 --verbose 2
 ```
 
