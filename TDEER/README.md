@@ -16,7 +16,7 @@ pip install -r requirements.txt
 Click [BERT-Base-Cased](https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip) to download the pretrained model and then decompress to `pretrained-bert` folder.
 
 
-### 4. Train & Eval
+### 3. Train & Eval
 
 You can use `run.py` with `--do_train` to train the model. After training, you can also use `run.py` with `--do_test` to evaluate data.
 
